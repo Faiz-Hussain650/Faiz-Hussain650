@@ -1,5 +1,6 @@
 # 👋 Hi Fauzan here 
 <img align="right" alt="coding" widht="80" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
 # 💫 About Me:
 🎓 Aspiring Data Scientist | Data Analytics Enthusiast<br>🌱 Currently diving deep into the world of **Data Science <br>💼 Former Data Analyst at  LTI Mindtree, where I honed my skills in turning data into actionable insights  <br>💻 Passionate about machine learning, statistical modeling, and all things data  <br>🚀 Always exploring new ways to leverage data for impactful solutions<br><br>Let's connect and collaborate on data-driven projects!<br>
 
