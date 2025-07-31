@@ -1,7 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Faiz Hussain</h1>
+<h3 align="center">Versatile Data Science & DevOps Engineer</h3>
 
-<!--
-**Faiz-Hussain650/Faiz-Hussain650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 Here are some ideas to get you started:
 
