@@ -53,8 +53,8 @@
 </div>
 <hr />
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack
-### 📊 Data Science & Machine Learning
+🛠️ Tech Stack
+ 📊 Data Science & Machine Learning
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   </a>
 </p>
-### 🗄️ Data Engineering, Databases & Cloud
+🗄️ Data Engineering, Databases & Cloud
 <p align="left">
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   </a>
 </p>
-### ⚙️ DevOps, Workflow & Tools
+ ⚙️ DevOps, Workflow & Tools
 <p align="left">
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -141,7 +141,7 @@
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   </a>
 </p>
-### 🎨 Design & Others
+🎨 Design & Others
 <p align="left">
   <a href="https://www.canva.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
