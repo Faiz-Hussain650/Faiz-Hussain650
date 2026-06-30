@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </a>
 </p>
-### 🌐 Web & Application Development
+🌐 Web & Application Development
 <p align="left">
   <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
