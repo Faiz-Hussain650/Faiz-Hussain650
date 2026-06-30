@@ -5,12 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Data+Engineering+Enthusiast;Former+Data+Analyst+@+LTI+Mindtree;Passionate+about+Machine+Learning" alt="Typing SVG" />
   </a>
   <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=fauzan111&icon=8&color=0" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=fauzan111&color=orange&style=flat-square" alt="Visitor Count" />
   </p>
 </div>
-
 <hr />
-
 <!-- About Me & Main Stats Grid -->
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -27,29 +25,25 @@
       <p><i>Let's connect and collaborate on impactful, data-driven projects!</i></p>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fauzan111&show_icons=true&theme=radical&bg_color=0D1117&title_color=F7931E&icon_color=FF6F00&text_color=C9D1D9&border_color=30363D" alt="Fauzan's GitHub Stats" width="380" />
+      <img src="https://github-stats-extended.vercel.app/api?username=fauzan111&show_icons=true&theme=radical&bg_color=0D1117&title_color=F7931E&icon_color=FF6F00&text_color=C9D1D9&border_color=30363D" alt="Fauzan's GitHub Stats" width="380" />
     </td>
   </tr>
 </table>
-
 <hr />
-
 <!-- GitHub Trophies -->
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fauzan111&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=fauzan111&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
-
 <br />
-
 <!-- Languages & Streak Stats Grid -->
 <div align="center">
   <table align="center" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan111&layout=compact&theme=radical&bg_color=0D1117&title_color=F7931E&icon_color=FF6F00&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="350" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fauzan111&layout=compact&theme=radical&bg_color=0D1117&title_color=F7931E&icon_color=FF6F00&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="350" />
       </td>
       <td valign="top">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzan111&theme=radical&background=0D1117&ring=F7931E&fire=FF6F00&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border=30363D" alt="Streak Stats" width="350" />
@@ -57,12 +51,9 @@
     </tr>
   </table>
 </div>
-
 <hr />
-
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
-
 ### 📊 Data Science & Machine Learning
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -93,7 +84,6 @@
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   </a>
 </p>
-
 ### 🗄️ Data Engineering, Databases & Cloud
 <p align="left">
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
@@ -103,7 +93,6 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </a>
 </p>
-
 ### 🌐 Web & Application Development
 <p align="left">
   <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
@@ -128,7 +117,6 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   </a>
 </p>
-
 ### ⚙️ DevOps, Workflow & Tools
 <p align="left">
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
@@ -153,16 +141,13 @@
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   </a>
 </p>
-
 ### 🎨 Design & Others
 <p align="left">
   <a href="https://www.canva.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
 </p>
-
 <hr />
-
 <!-- Social Media Links -->
 <div align="center">
   <h2>🌐 Let's Connect & Collaborate!</h2>
@@ -178,9 +163,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
 <br />
-
 <!-- Dynamic Quote Card -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
