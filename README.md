@@ -15,7 +15,7 @@ _<!-- Header Typing SVG & Greeting -->
     <td width="55%" valign="top">
       <h3>💫 About Me</h3>
       <ul>
-        <li>🎓 <b>Aspiring Data Scientist</b> & <b>Data Engineering Enthusiast</b></li>
+        <li>🎓 <b>Aspiring Data Scientist</b> & <b>AI Engineer Enthusiast</b></li>
         <li>💼 Currently <b>Data Scientist at Geko S.p.A</b></li>
         <li>💼 Former <b>Data Analyst at LTI Mindtree</b>, where I turned data into actionable business insights</li>
         <li>💻 Passionate about <b>machine learning, statistical modeling</b>, and all things data</li>
