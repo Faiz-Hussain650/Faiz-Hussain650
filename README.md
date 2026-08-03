@@ -1,8 +1,8 @@
-<!-- Header Typing SVG & Greeting -->
+_<!-- Header Typing SVG & Greeting -->
 <div align="center">
   <h1>👋 Hi, I'm Fauzan Ejaz!</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Data+Engineering+Enthusiast;Former+Data+Analyst+@+LTI+Mindtree;Passionate+about+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;AI+Engineer+Enthusiast;Former+Data+Analyst+@+LTI+Mindtree;Passionate+about+Machine+Learning" alt="Typing SVG" />
   </a>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=fauzan111&color=orange&style=flat-square" alt="Visitor Count" />
@@ -168,3 +168,4 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
+_
