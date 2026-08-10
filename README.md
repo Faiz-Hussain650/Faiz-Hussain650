@@ -1,4 +1,4 @@
-_<!-- Header Typing SVG & Greeting -->
+<!-- Header Typing SVG & Greeting -->
 <div align="center">
   <h1>👋 Hi, I'm Fauzan Ejaz!</h1>
   <a href="https://git.io/typing-svg">
