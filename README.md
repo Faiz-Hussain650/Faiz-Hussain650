@@ -36,23 +36,12 @@
 
 ## About
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <ul>
-        <li>⚙️ <b>MLOps and DevOps Engineer</b> with 2+ years automating AWS infrastructure and CI/CD delivery</li>
-        <li>💼 Former <b>DevOps Engineer (Senior Associate)</b> at <b>NTT DATA</b>, Bangalore</li>
-        <li>🚀 Focused on running ML in production: training pipelines, model registries, GitOps promotion, serving and drift monitoring</li>
-        <li>🎓 Completing an <b>MSc in Data Science</b> at the University of Naples Federico II (Sept 2026)</li>
-        <li>☁️ <b>3x AWS Certified</b>, including DevOps Engineer Professional</li>
-        <li>🗣️ English C1 | Italian A2 (improving)</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=Faiz-Hussain650&show_icons=true&bg_color=0D1117&title_color=00B4D8&icon_color=FF9900&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" width="380" />
-    </td>
-  </tr>
-</table>
+- ⚙️ **MLOps and DevOps Engineer** with 2+ years automating AWS infrastructure and CI/CD delivery
+- 💼 Former **DevOps Engineer (Senior Associate)** at **NTT DATA**, Bangalore
+- 🚀 Focused on running ML in production: training pipelines, model registries, GitOps promotion, serving and drift monitoring
+- 🎓 Completing an **MSc in Data Science** at the University of Naples Federico II (Sept 2026)
+- ☁️ **3x AWS Certified**, including DevOps Engineer Professional
+- 🗣️ English C1 | Italian A2 (improving)
 
 <details>
 <summary><b>▶ whoami.yaml</b> (click to expand)</summary>
