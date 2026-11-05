@@ -11,6 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/Milan,_Italy-0D1117?style=flat-square&logo=googlemaps&logoColor=00B4D8" alt="Location" />
   <img src="https://img.shields.io/badge/Open_to-EU_AI_%26_MLOps_roles-00B4D8?style=flat-square" alt="Open to EU roles" />
+  <a href="https://faiz-hussain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-faiz--hussain.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p>
